@@ -1,0 +1,39 @@
+/* header */
+.btn-outline-succes {
+    color: rgb(79, 10, 144);
+    border-color: rgb(79, 10, 144);
+    border-radius: 20px;
+}
+.btn-outline-succes:hover {
+    background-color: rgb(79, 10, 144);
+    color: white;
+}
+/* seccion 1 */
+.acento {
+    color: rgb(79, 10, 144);
+}
+/* seccion 2 */
+.btn-aqua {
+    background-color: rgb(98, 212, 174);
+    border-radius: 25px;
+}
+.btn-aqua:hover {
+    background-color: rgb(32, 173, 126);
+    border-color: rgb(106, 223, 184);
+}
+.btn-aqua a{
+    text-decoration: none;
+    color: white;
+}
+/* footer */
+.mail {
+    color: blueviolet;
+    text-decoration: none;
+}
+.redes a{
+    color: slategrey;
+}
+.redes a:hover {
+    color: blueviolet;
+}
+
